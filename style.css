@@ -1,0 +1,51 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+
+
+nav a:hover{
+  background-color:lightblue;
+  color: orange;
+}
+
+nav a:active{
+  background-color: green;
+  color: yellow;
+}
+
+nav a{
+  text decoration: none;
+  margin:20px;
+}
+
+h1, a{
+  color:white;
+}
+
+p{
+  color: orange;
+}
+
+
+
+h1:first-letter{
+  font-size:2em;
+  
+}
+
+li{
+  color:blue
+}
+
+a[target]{
+  background-color: lightcoral;
+  color:darkblue;
+
+  
+}
+
+h2{
+  color:green
+}
